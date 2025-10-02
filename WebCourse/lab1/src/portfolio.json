@@ -1,0 +1,54 @@
+{
+  "personalInformation": {
+    "firstName": "Ethan",
+    "lastName": "Collin",
+    "birthday": "2004-04-23",
+    "email": "vous@exemple.com",
+    "phone": "+33 6 04 46 10 27",
+    "location": "Dinan, France",
+    "website": "https://votre-site.dev",
+    "about": "Brève bio en 1–2 phrases."
+  },
+  "personalInterests": [
+    "LA TABLAATTTTTTE",
+    "Intérêt 2",
+    "Intérêt 3"
+  ],
+  "personalSkills": [
+    "Compétence A",
+    "Compétence B",
+    "Compétence C"
+  ],
+  "personalProjects": [
+    {
+      "title": "Projet 1",
+      "description": "Courte description du projet 1, objectifs et impact.",
+      "thumbnail": "images/projets/projet1.png",
+      "technologies": ["Tech1", "Tech2"],
+      "links": {
+        "repo": "https://github.com/vous/projet1",
+        "demo": "https://demo.exemple.com/projet1"
+      }
+    },
+    {
+      "title": "Projet 2",
+      "description": "Courte description du projet 2, rôle et résultats.",
+      "thumbnail": "images/projets/projet2.png",
+      "technologies": ["TechA", "TechB"],
+      "links": {
+        "repo": "https://github.com/vous/projet2",
+        "demo": "https://demo.exemple.com/projet2"
+      }
+    },
+    {
+      "title": "Projet 3",
+      "description": "Courte description du projet 3, challenges et solutions.",
+      "thumbnail": "images/projets/projet3.png",
+      "technologies": ["TechX", "TechY"],
+      "links": {
+        "repo": "https://github.com/vous/projet3",
+        "demo": "https://demo.exemple.com/projet3"
+      }
+    }
+  ]
+}
